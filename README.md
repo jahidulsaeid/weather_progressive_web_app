@@ -1,6 +1,6 @@
 ## Weather PWA Application
 
-### Github
+### Open Weather Map
 
 * Create a [Account in Open Weather map](https://home.openweathermap.org/users/sign_in)
 
